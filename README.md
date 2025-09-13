@@ -5,4 +5,4 @@ How to Review or Run : Simply copy the attached .cpp file in the source code of 
 
 Rule: Ensure the ball hits the paddle at the bottom to avoid losing a life, as you have a total of 3 lives. Play attentively to manage your lives effectively.
 
-Control: Press ' N ' for New GAME Press ' A ' for MOVE LEFT Press ' D ' for MOVE RIGHT Press ' P ' for PAUSE GAME Press ' U ' for UNPAUSE GAME Press ' S ' for SAVE GAME Press ' L ' for LOAD GAME Press ' Q ' for QUIT GAME Press ' R ' for RESTART GAME
+Control: Press ' N ' for New GAME Press ' A ' for MOVE LEFT Press ' D ' for MOVE RIGHT Press ' P ' for PAUSE GAME Press ' U ' for UNPAUSE GAME Press ' S ' for SAVE GAME Press ' L ' for LOAD GAME Press ' Q ' for QUIT GAME Press ' R ' for RESTART GAME.
