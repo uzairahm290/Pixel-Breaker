@@ -6,6 +6,7 @@ using namespace std;
 
 void GameOverFunction() {
 	cls();
+	
 	gotoxy(0, 0);
 	cout << "\n\n\n\n\n\n\n\n\t\t";
 	cout << " ___________ ___ ___     _____    _______    ____  __.    _____.___.________    ____ ___  \n\t\t";
